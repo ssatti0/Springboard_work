@@ -8,3 +8,6 @@ TOPIC: US Traffic Accidents
 3. Prediction of Wind_Chill and using the model to fill in the missing values.
 4. Data Storytelling
 5. Statistical analysis: Hypothesis testing and effect of sample size on p-value.
+6. Milestone report.
+7. Modeling and InDepth Analysis.
+8. Final report.
